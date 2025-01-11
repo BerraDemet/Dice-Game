@@ -1,8 +1,7 @@
-# React + Vite
+Dice Roller Game
+A simple dice rolling game built with React and Tailwind CSS. The game allows users to roll a pair of dice and compete against the computer. The game shows the result of each roll, including which side wins, based on the values of the rolled dice.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React: A JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for building responsive, mobile-first designs.
+JavaScript (ES6+): The core programming language used for the app logic
